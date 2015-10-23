@@ -1,0 +1,9 @@
+{"tasks":
+	[
+		{
+			"name":"no_task",
+			"color":"FFFFFF",
+			"wlist":["DD504B","DD838A","DD98E0","DDAB3A","DDD42F","DDD445","DDD44D","DDD87E","DDD883","DDD88A","DDD89A","DDD89F"]
+		}
+	]
+}
